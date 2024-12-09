@@ -10,10 +10,12 @@ In this project, I performed an AQI (Air Quality Index) prediction using various
 - **Naive Bayes**
 
 ## Model Performance
+![result](https://github.com/user-attachments/assets/3e99031e-e5af-415e-97c4-abb8a4c83f8a)
+
 
 The bar chart below displays the performance of each model. The performance metric used is accuracy, and each model's prediction results were compared based on their respective scores.
 
-![Model Performance](![result](https://github.com/user-attachments/assets/3e99031e-e5af-415e-97c4-abb8a4c83f8a))
+![Model Performance]
 
 From the chart, we can observe how each model performs and analyze which one provides the best prediction accuracy for the AQI.
 
